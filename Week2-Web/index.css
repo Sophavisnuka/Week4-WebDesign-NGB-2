@@ -1,0 +1,35 @@
+
+/* element selector */
+/* h1 {
+    color: blue;
+} */
+
+/* class selector */
+/* .text {
+    color: blue;
+    border: 1px solid black;
+} */
+
+/* Id selector */
+#hello {
+    color: red;
+    
+}
+
+/* Universal selector */
+* {
+    font-family: "Roboto", sans-serif;
+    color: red;
+}
+
+/* p {
+    color: yellow;
+} */
+
+.tag {
+    color: orange;
+}
+
+#tag {
+    color: green;
+}

@@ -1,0 +1,16 @@
+/* element */
+h1 {
+    color: blue;
+}
+/* class */
+.hi {
+    color: green;
+}
+/* id */
+#hi0 {
+    color: red;
+}
+/* universal */
+* {
+    color: aqua;
+}
