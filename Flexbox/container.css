@@ -3,24 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
-/* this body is to center the content */
 body {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
 }
-/* this is the wrapper for container */
 .wrapper {
     padding: 20px;
     width: 50vw;
     background-color: antiquewhite;
 }
-/* Play around with flexbox properties here*/
+/* Play around with flexbox properties here */
 .container {
     height: 500px;
 }
-/* box styling */
 .item1, .item2, .item3 {
     padding: 50px;
     border-radius: 5px;
